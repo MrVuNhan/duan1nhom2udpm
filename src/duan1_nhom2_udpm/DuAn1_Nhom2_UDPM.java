@@ -20,6 +20,7 @@ public class DuAn1_Nhom2_UDPM {
         
         //Chán quán
         System.out.println("Nhân ngu");
+        System.out.println("Cao Ðan Huynh");
         
     }
     
