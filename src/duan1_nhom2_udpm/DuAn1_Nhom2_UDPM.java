@@ -15,6 +15,12 @@ public class DuAn1_Nhom2_UDPM {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //Nhân ngu vl
+        
+        //Chán quán
+        System.out.println("Nhân ngu");
+        
     }
     
 }
